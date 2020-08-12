@@ -6,7 +6,7 @@ public class Main {
 		int[] cards = new int[] {1, 2, 0, 3, 5, 4, 5, 8, 1, 9};
 		
 		Solution s = new Solution();
-		System.out.println(s.solution(cards)); // 49
+		System.out.println(s.solution(cards)); // 18
 	}
 
 }
